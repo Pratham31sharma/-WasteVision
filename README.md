@@ -98,36 +98,6 @@ python app/gradio_app.py
 
 ---
 
-## 🗂️ Project Structure
-
-```
-app/
-  gradio_app.py           # Gradio web app for inference
-data/
-  src/
-    evaluate.py           # Evaluation utilities
-    preprocess_taco.py    # Preprocessing scripts
-  taco/                   # TACO dataset (images, labels)
-datasets/
-  data/
-    src/
-      preprocess_taco.py
-    taco/
-      annotations.json
-      classes.txt
-      images/
-      train/
-        images/
-        labels/
-src/
-  train_yolov8.py         # Training script
-  inference.py            # Inference script
-  evaluate.py             # Evaluation script
-requirements.txt          # Python dependencies
-```
-
----
-
 ## 🧩 Dependencies
 
 All dependencies are listed in `requirements.txt`. Key packages include:
