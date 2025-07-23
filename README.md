@@ -1,6 +1,6 @@
 # 🧴 WasteVision
 
-**AI-Powered Plastic Waste Detection & Classification**
+**AI-Driven Multi-Class Waste Detection & Classification**
 
 _Protecting the environment with intelligent monitoring_
 
@@ -8,13 +8,13 @@ _Protecting the environment with intelligent monitoring_
 
 ## 🚀 Overview
 
-WasteVision is an advanced system that leverages YOLOv8 and the TACO dataset to detect and classify plastic waste in images. The project provides end-to-end tools for data preprocessing, model training, evaluation, and a user-friendly Gradio web app for real-time inference.
+WasteVision is an advanced system that leverages YOLOv8 and the TACO dataset to detect and classify various types of waste in images. The project provides end-to-end tools for data preprocessing, model training, evaluation, and a user-friendly Gradio web app for real-time inference.
 
 ---
 
 ## ✨ Key Features
 
-- 🧠 **Deep Learning Detection**: Accurate plastic waste detection using YOLOv8
+- 🧠 **Deep Learning Detection**: Accurate variou waste detection using YOLOv8
 - 🗂️ **Dataset Preprocessing**: Utilities for TACO dataset preparation and annotation
 - 📈 **Training & Evaluation**: Scripts for model training and performance analysis
 - 🖼️ **Results Visualization**: Confusion matrices, F1 curves, and more
