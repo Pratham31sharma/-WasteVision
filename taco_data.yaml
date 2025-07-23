@@ -1,0 +1,66 @@
+path: datasets/data/taco
+train: train/images
+val: train/images
+
+nc: 60  # Number of classes in TACO (update if different)
+names:
+  0: Aluminium foil
+  1: Bottle
+  2: Bottle cap
+  3: Broken glass
+  4: Can
+  5: Carton
+  6: Cigarette
+  7: Cup
+  8: Food
+  9: Food wrapper
+  10: Glass
+  11: Lid
+  12: Other
+  13: Paper
+  14: Paper bag
+  15: Plastic
+  16: Plastic bag + wrapper
+  17: Plastic bottle
+  18: Plastic container
+  19: Plastic cup
+  20: Plastic lid
+  21: Pop tab
+  22: Rope & strings
+  23: Straw
+  24: Styrofoam piece
+  25: Unlabeled litter
+  26: Wrapper
+  27: Metal
+  28: Glass bottle
+  29: Metal bottle cap
+  30: Metal can
+  31: Metal lid
+  32: Metal piece
+  33: Metal tab
+  34: Metal tube
+  35: Metal wire
+  36: Paper cup
+  37: Paper piece
+  38: Paper straw
+  39: Paper wrapper
+  40: Plastic piece
+  41: Plastic straw
+  42: Plastic tube
+  43: Rubber band
+  44: Rubber glove
+  45: Rubber piece
+  46: Rubber tire
+  47: Sponge
+  48: Wood piece
+  49: Wood stick
+  50: Wood toothpick
+  51: Wood utensil
+  52: Wood wrapper
+  53: Cloth
+  54: Cloth piece
+  55: Cloth string
+  56: Cloth wrapper
+  57: Leather
+  58: Leather piece
+  59: Leather wrapper

@@ -1,0 +1,11 @@
+ultralytics==8.0.203
+opencv-python
+numpy
+matplotlib
+pandas
+scikit-learn
+gradio
+torch
+torchvision
+seaborn
+tqdm
